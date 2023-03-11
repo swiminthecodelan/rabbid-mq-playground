@@ -8,4 +8,6 @@ public class CodeStyle {
 
   private String a;
 
+    private String b;
+
 }
