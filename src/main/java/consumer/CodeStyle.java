@@ -7,4 +7,6 @@ package consumer;
 public class CodeStyle {
 
   private String a;
+
+  private Integer b;
 }
